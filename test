@@ -1,0 +1,12 @@
+<div class="fancy-list">
+  <ul>
+    <li>Lorem ipsum</li>
+    <li>Dolor sit</li>
+    <li>Amet consectetur</li>            
+  </ul>
+</div>
+- Lorem ipsum
+- Dolor sit `class: fancy-item`
+- Amet consectetur
+0_testcommon/staticfiles/images/icon.png
+0_common/forstaticfiles/styles/destyle.css15
