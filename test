@@ -1,3 +1,9 @@
+{
+  "owner": "0xYOUR_ADDRESS_HERE",
+  "amount": "0x00000000FFFFFFFF",
+  "asset_id": "0x0000000000000000000000000000000000000000000000000000000000000000"
+},
+
 <div class="fancy-list">
   <ul>
     <li>Lorem ipsum</li>
